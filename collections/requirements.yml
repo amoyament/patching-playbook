@@ -2,7 +2,6 @@
 collections:
  - name: ansible.posix
    version: ">=1.0.0"
- - name: infra.aap_configuration
  - name: community.vmware
    version: 4.0.0
  - name: beyondtrust.secrets_safe
